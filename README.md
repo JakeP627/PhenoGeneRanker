@@ -1,6 +1,6 @@
 # PhenoGeneRanker
 ## Paper
-The link for paper will be here!
+https://www.biorxiv.org/content/10.1101/651000v1
 ## GenerateWalkMatrix.R
 Generates Complete Multiplex Heterogeneous Network (Walk Matrix - WM) using multiple gene/protein layers and phenotype layers.
 ## RunRWR.R

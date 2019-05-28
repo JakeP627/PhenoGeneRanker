@@ -1,4 +1,4 @@
-PhenoGeneRanker (c) by Cagatay Dursun, Serdar Bozdag
+PhenoGeneRanker (c) by Cagatay Dursun and Serdar Bozdag
 
 PhenoGeneRanker is licensed under a
 Creative Commons Attribution 4.0 International License.
